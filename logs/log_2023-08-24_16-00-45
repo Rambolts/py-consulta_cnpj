@@ -1,0 +1,9 @@
+16:00:45 | INFO | Iniciando aplicação
+16:00:45 | INFO | Fazendo leitura da planilha de Input
+16:00:45 | INFO | Instanciando Driver de execução
+16:00:48 | INFO | Iniciando extração dos dados...
+16:00:48 | INFO | 
+16:00:48 | INFO |   Processando CNPJ 17.516.113/0001-47
+16:01:14 | ERROR |    Server Error - 404
+16:01:14 | INFO |   Processando CNPJ 21.154.877/0001-07
+16:01:22 | INFO |   Processando CNPJ 17.516.113/0001-47

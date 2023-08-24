@@ -1,0 +1,39 @@
+15:55:53 | INFO | Iniciando aplicação
+15:55:53 | INFO | Fazendo leitura da planilha de Input
+15:55:53 | INFO | Instanciando Driver de execução
+15:55:56 | INFO | Iniciando extração dos dados...
+15:55:56 | INFO | 
+15:55:56 | INFO |   Processando CNPJ 17.516.113/0001-47
+15:56:37 | ERROR | Falha na extração dos dados
+15:56:37 | ERROR | Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/table/tbody/tr[2]/td/input"}
+  (Session info: chrome=116.0.5845.98); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x010037C3+48947]
+	(No symbol) [0x00F98551]
+	(No symbol) [0x00E9C92D]
+	(No symbol) [0x00EC9E38]
+	(No symbol) [0x00EC9EFB]
+	(No symbol) [0x00EF8EF2]
+	(No symbol) [0x00EE50D4]
+	(No symbol) [0x00EF75DA]
+	(No symbol) [0x00EE4E86]
+	(No symbol) [0x00EC16C7]
+	(No symbol) [0x00EC284D]
+	GetHandleVerifier [0x0124FDF9+2458985]
+	GetHandleVerifier [0x0129744F+2751423]
+	GetHandleVerifier [0x01291361+2726609]
+	GetHandleVerifier [0x01080680+560624]
+	(No symbol) [0x00FA238C]
+	(No symbol) [0x00F9E268]
+	(No symbol) [0x00F9E392]
+	(No symbol) [0x00F910B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+15:56:37 | INFO |   Processando CNPJ 21.154.877/0001-07
+15:57:09 | INFO |   Processando CNPJ 17.516.113/0001-47
+15:57:09 | ERROR | Falha na extração dos dados
+15:57:09 | ERROR | ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+15:57:09 | INFO |   Processando CNPJ 28.799.908/0001-26
+15:57:13 | INFO |   Processando CNPJ 21.727.508/0001-66
