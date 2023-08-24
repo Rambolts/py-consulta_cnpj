@@ -1,0 +1,35 @@
+13:13:12 | INFO | Iniciando aplicação
+13:13:12 | INFO | Fazendo leitura da planilha de Input
+13:13:12 | INFO | Instanciando Driver de execução
+13:13:15 | INFO | Iniciando extração dos dados...
+13:13:15 | INFO | 
+13:13:15 | INFO |   Processando CNPJ 17.516.113/0001-47
+13:13:38 | INFO |   Processando CNPJ 21.154.877/0001-07
+13:14:06 | ERROR | Falha na extração dos dados
+13:14:06 | ERROR | Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B637C3+48947]
+	(No symbol) [0x00AF8551]
+	(No symbol) [0x009FC92D]
+	(No symbol) [0x00A29E38]
+	(No symbol) [0x00A29EFB]
+	(No symbol) [0x00A58EF2]
+	(No symbol) [0x00A450D4]
+	(No symbol) [0x00A575DA]
+	(No symbol) [0x00A44E86]
+	(No symbol) [0x00A216C7]
+	(No symbol) [0x00A2284D]
+	GetHandleVerifier [0x00DAFDF9+2458985]
+	GetHandleVerifier [0x00DF744F+2751423]
+	GetHandleVerifier [0x00DF1361+2726609]
+	GetHandleVerifier [0x00BE0680+560624]
+	(No symbol) [0x00B0238C]
+	(No symbol) [0x00AFE268]
+	(No symbol) [0x00AFE392]
+	(No symbol) [0x00AF10B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:06 | INFO |   Processando CNPJ 17.516.113/0001-47
+13:14:14 | ERROR | Ocorreu erro na automação

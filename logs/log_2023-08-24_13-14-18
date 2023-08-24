@@ -1,0 +1,2652 @@
+13:14:18 | INFO | Iniciando aplicação
+13:14:18 | INFO | Fazendo leitura da planilha de Input
+13:14:18 | INFO | Instanciando Driver de execução
+13:14:21 | INFO | Iniciando extração dos dados...
+13:14:21 | INFO | 
+13:14:21 | INFO |   Processando CNPJ 17.516.113/0001-47
+13:14:53 | ERROR | Falha na extração dos dados
+13:14:53 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:53 | INFO |   Processando CNPJ 21.154.877/0001-07
+13:14:53 | ERROR | Falha na extração dos dados
+13:14:53 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:53 | INFO |   Processando CNPJ 17.516.113/0001-47
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 28.799.908/0001-26
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 21.727.508/0001-66
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 21.154.554/0001-13
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 16.866.394/0001-03
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 19.701.818/0001-60
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 18.715.565/0001-10
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 16.745.465/0001-01
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 20.971.057/0001-45
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 07.256.298/0001-44
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 16.907.746/0001-13
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 19.377.514/0001-99
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 18.715.573/0001-67
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 16.695.025/0001-97
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 18.715.599/0001-05
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 19.138.890/0001-20
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 18.715.581/0001-03
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 18.715.516/0001-88
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 00.957.404/0001-78
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 03.389.126/0001-98
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 05.599.094/0001-80
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 05.487.631/0001-09
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 05.465.167/0001-41
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 05.475.103/0001-21
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 05.461.142/0001-70
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 18.715.532/0001-70
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 05.585.681/0001-10
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 08.715.327/0001-51
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 06.151.940/0001-09
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 13.235.618.0001-82
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 08.631.821/0001-38
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 18.715.615/0001-60
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 05.461.142/0001-70
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.217.332/0001-25
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.255.670/0001-51
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 18.746.164/0001-28
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.444.779/0001-37
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.387.481/0001-32
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.486.275/0001-80
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.309.790/0001-94
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 22.675.359/0001-00
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.322.264/0001-64
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 65.172.579/0001-15
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 65.179.400/0001-51
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 04.888.232/0001-89
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 10.745.790/0001-98
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 11.099.618/0001-77
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 15.438.067/0001-80
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.464.652/0001-80
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 21.949.888/0001-83
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 25.455.858/0001-71
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 16.789.398/0001-27
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 19.169.713/0001-01
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 23.070.071/0001-66
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.498.205/0001-41
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 16.625.196/0001-40
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 21.229.281/0001-29
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.503.475/0001-01
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 19.843.929/0001-00
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.319.831/0001-23
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 26.388.330/0001-90
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 12.252.931/0001-66
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 99.999.999/9921-03
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 99.999.999/9917-27
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 99.999.999/9920-22
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 99.999.999/9853-28
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 10.398.157/0001-70
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 03.133.408/0001-20
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 99.999.997/9843-56
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 99.999.997/9842-75
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 11.206.085.0001-85
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 32.384.344/0001-38
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 32.384.286/0001-42
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 13.252.006/0001-06
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 21.390.387.0001-00
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 38.486.817/0001-94
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 31.662.649/0001-00
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 33.396.928/0001-96
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 35.682.930/0001-57
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 36.253.414/0001-70
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 40.004.800/0001-03
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 19.198.118/0001-02
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.138.140/0001-23
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 20.234.423/0001-83
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 38.486.817/0001-94
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 29.768.219/0001-17
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 22.261.473/0001-85
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.161.837/0001-15
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.281.106/0001-03
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 16.636.540/0001-04
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.155.730/0001-64
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 09.104.426/0001-60
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 17.398.512/0001-50
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 33.224.254/0001-42
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 19.296.342/0001-29
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | INFO |   Processando CNPJ 03.919.139/0001-21
+13:14:54 | ERROR | Falha na extração dos dados
+13:14:54 | ERROR | Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=116.0.5845.98)
+Stacktrace:
+	GetHandleVerifier [0x007E37C3+48947]
+	(No symbol) [0x00778551]
+	(No symbol) [0x0067C92D]
+	(No symbol) [0x006636E5]
+	(No symbol) [0x006C8CDB]
+	(No symbol) [0x006D7113]
+	(No symbol) [0x006C4E86]
+	(No symbol) [0x006A16C7]
+	(No symbol) [0x006A284D]
+	GetHandleVerifier [0x00A2FDF9+2458985]
+	GetHandleVerifier [0x00A7744F+2751423]
+	GetHandleVerifier [0x00A71361+2726609]
+	GetHandleVerifier [0x00860680+560624]
+	(No symbol) [0x0078238C]
+	(No symbol) [0x0077E268]
+	(No symbol) [0x0077E392]
+	(No symbol) [0x007710B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:14:54 | ERROR | Ocorreu erro na automação

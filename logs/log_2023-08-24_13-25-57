@@ -1,0 +1,9 @@
+13:25:57 | INFO | Iniciando aplicação
+13:25:57 | INFO | Fazendo leitura da planilha de Input
+13:25:57 | INFO | Instanciando Driver de execução
+13:26:00 | INFO | Iniciando extração dos dados...
+13:26:00 | INFO | 
+13:26:00 | INFO |   Processando CNPJ 17.516.113/0001-47
+13:26:23 | INFO |   Processando CNPJ 21.154.877/0001-07
+13:26:32 | ERROR | Ocorreu erro na automação
+13:26:32 | ERROR | list.append() takes no keyword arguments

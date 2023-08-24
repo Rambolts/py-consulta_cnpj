@@ -1,0 +1,2 @@
+class AppConfigNotLoadedWarning(UserWarning):
+    pass

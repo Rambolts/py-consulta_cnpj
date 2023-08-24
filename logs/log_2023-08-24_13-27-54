@@ -1,0 +1,36 @@
+13:27:54 | INFO | Iniciando aplicação
+13:27:54 | INFO | Fazendo leitura da planilha de Input
+13:27:54 | INFO | Instanciando Driver de execução
+13:27:56 | INFO | Iniciando extração dos dados...
+13:27:56 | INFO | 
+13:27:56 | INFO |   Processando CNPJ 17.516.113/0001-47
+13:28:39 | ERROR | Falha na extração dos dados
+13:28:39 | ERROR | Message: 
+Stacktrace:
+	GetHandleVerifier [0x005A37C3+48947]
+	(No symbol) [0x00538551]
+	(No symbol) [0x0043C92D]
+	(No symbol) [0x00469E38]
+	(No symbol) [0x00469EFB]
+	(No symbol) [0x00498EF2]
+	(No symbol) [0x004850D4]
+	(No symbol) [0x004975DA]
+	(No symbol) [0x00484E86]
+	(No symbol) [0x004616C7]
+	(No symbol) [0x0046284D]
+	GetHandleVerifier [0x007EFDF9+2458985]
+	GetHandleVerifier [0x0083744F+2751423]
+	GetHandleVerifier [0x00831361+2726609]
+	GetHandleVerifier [0x00620680+560624]
+	(No symbol) [0x0054238C]
+	(No symbol) [0x0053E268]
+	(No symbol) [0x0053E392]
+	(No symbol) [0x005310B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:28:39 | INFO |   Processando CNPJ 21.154.877/0001-07
+13:29:09 | INFO |   Processando CNPJ 17.516.113/0001-47
+13:29:13 | ERROR | Ocorreu erro na automação
+13:29:13 | ERROR | No module named 'openpyxl'

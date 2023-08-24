@@ -1,0 +1,62 @@
+13:15:04 | INFO | Iniciando aplicação
+13:15:04 | INFO | Fazendo leitura da planilha de Input
+13:15:04 | INFO | Instanciando Driver de execução
+13:15:07 | INFO | Iniciando extração dos dados...
+13:15:07 | INFO | 
+13:15:07 | INFO |   Processando CNPJ 17.516.113/0001-47
+13:16:07 | ERROR | Falha na extração dos dados
+13:16:07 | ERROR | Message: 
+Stacktrace:
+	GetHandleVerifier [0x004B37C3+48947]
+	(No symbol) [0x00448551]
+	(No symbol) [0x0034C92D]
+	(No symbol) [0x00379E38]
+	(No symbol) [0x00379EFB]
+	(No symbol) [0x003A8EF2]
+	(No symbol) [0x003950D4]
+	(No symbol) [0x003A75DA]
+	(No symbol) [0x00394E86]
+	(No symbol) [0x003716C7]
+	(No symbol) [0x0037284D]
+	GetHandleVerifier [0x006FFDF9+2458985]
+	GetHandleVerifier [0x0074744F+2751423]
+	GetHandleVerifier [0x00741361+2726609]
+	GetHandleVerifier [0x00530680+560624]
+	(No symbol) [0x0045238C]
+	(No symbol) [0x0044E268]
+	(No symbol) [0x0044E392]
+	(No symbol) [0x004410B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:16:07 | INFO |   Processando CNPJ 21.154.877/0001-07
+13:17:16 | ERROR | Falha na extração dos dados
+13:17:16 | ERROR | Message: 
+Stacktrace:
+	GetHandleVerifier [0x004B37C3+48947]
+	(No symbol) [0x00448551]
+	(No symbol) [0x0034C92D]
+	(No symbol) [0x00379E38]
+	(No symbol) [0x00379EFB]
+	(No symbol) [0x003A8EF2]
+	(No symbol) [0x003950D4]
+	(No symbol) [0x003A75DA]
+	(No symbol) [0x00394E86]
+	(No symbol) [0x003716C7]
+	(No symbol) [0x0037284D]
+	GetHandleVerifier [0x006FFDF9+2458985]
+	GetHandleVerifier [0x0074744F+2751423]
+	GetHandleVerifier [0x00741361+2726609]
+	GetHandleVerifier [0x00530680+560624]
+	(No symbol) [0x0045238C]
+	(No symbol) [0x0044E268]
+	(No symbol) [0x0044E392]
+	(No symbol) [0x004410B7]
+	BaseThreadInitThunk [0x758D7D49+25]
+	RtlInitializeExceptionChain [0x76FAB74B+107]
+	RtlClearBits [0x76FAB6CF+191]
+
+13:17:16 | INFO |   Processando CNPJ 17.516.113/0001-47
+13:17:48 | INFO |   Processando CNPJ 28.799.908/0001-26
+13:17:52 | ERROR | Ocorreu erro na automação

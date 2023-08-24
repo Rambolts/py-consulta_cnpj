@@ -1,0 +1,5 @@
+url: https://solucoes.receita.fazenda.gov.br/Servicos/cnpjreva/cnpjreva_solicitacao.asp
+
+folder_paths:
+  input: ..\input
+  output: ..\output
